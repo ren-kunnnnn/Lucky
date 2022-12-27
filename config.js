@@ -13,4 +13,5 @@ const CONFIG = {
     mess: 'SM Cab?',
     messDesc: 'Ikaw na bahala sa time.',
     btnAccept: 'Satchel out!',   
+    messLink: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'
 }
