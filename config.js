@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Hulaan mo",
+    titleWeb: "Wala kang no choice ( ͡° ͜ʖ ͡°)",
     introTitle: 'Daniseee',
     introDesc: `What if gala us, treat ko na :>`,
     btnIntro: 'AYOKO',
