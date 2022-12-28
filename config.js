@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'One more time (っ˘̩╭╮˘̩)っ ',
     btnYes: 'Sige na nga',
     btnNo: 'Ayoko talaga',
-    question: 'So When ka free HAHAHA',
+    question: 'So When ka free? HAHAHA',
     btnReply: 'Send',
     reply: 'Free ako basta ikaw... YIEEEEEE',
     mess: 'SM Cab?',
