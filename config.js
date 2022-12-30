@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Wala kang no choice ( ͡° ͜ʖ ͡°)",
     introTitle: 'Daniseee',
-    introDesc: `What if gala us, treat ko na :>`,
+    introDesc: `What if gala us, treat kita :>`,
     btnIntro: 'AYOKO',
     title: 'Anong ayoko, di ako payag! (¬_¬")',
     desc: 'One more time (っ˘̩╭╮˘̩)っ ',
