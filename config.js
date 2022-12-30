@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Send',
     reply: 'Free ako basta ikaw... YIEEEEEE',
     mess: 'SM Cab?',
-    messDesc: 'Ikaw na bahala sa time ʕ •ᴥ•ʔ',
+    messDesc: 'Ikaw na bahala when ʕ •ᴥ•ʔ',
     btnAccept: 'Satchel out!',   
     messLink: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'
 }
