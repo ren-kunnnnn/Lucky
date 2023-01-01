@@ -7,11 +7,11 @@ const CONFIG = {
     desc: 'One more time (っ˘̩╭╮˘̩)っ ',
     btnYes: 'Sige na nga',
     btnNo: 'Ayoko talaga',
-    question: 'So When ka free? HAHAHA',
+    question: 'So When ka free?',
     btnReply: 'Send',
-    reply: 'Free ako basta ikaw... YIEEEEEE',
-    mess: 'SM Cab?',
-    messDesc: 'Ikaw na bahala when ʕ •ᴥ•ʔ',
+    reply: 'Free ako sa jan 3 tara HAHAHAHA',
+    mess: 'SM Cab',
+    messDesc: 'Jan. 3? ʕ •ᴥ•ʔ',
     btnAccept: 'Satchel out!',   
     messLink: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'
 }
