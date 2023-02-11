@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'SORRY',
     question: '',
     btnReply: 'Send',
-    reply: '',
+    reply: 'labyu joshhhhh',
     mess: '',
     messDesc: '',
     btnAccept: '',   
