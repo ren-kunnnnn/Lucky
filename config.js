@@ -10,8 +10,8 @@ const CONFIG = {
     question: 'So how about after school?',
     btnReply: 'Send',
     reply: 'Sure thing',
-    mess: '',
-    messDesc: '',
-    btnAccept: '',   
-    messLink: ''
+    mess: 'Wanna ride?',
+    messDesc: 'my Wigo',
+    btnAccept: 'Yes',   
+    messLink: 'https://youtu.be/8PKowCh5rlI'
 }
